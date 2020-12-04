@@ -433,8 +433,8 @@ h5{
 @media only screen and (max-width:514px)
 {
     .bg-navbar-color{
-       padding-right: 20px !important;
-       padding-left: 20px !important;
+        padding-right: 0 !important;
+        padding-left: 0 !important;
     }
 }
 
@@ -455,4 +455,23 @@ h5{
     .follow-box{
         width:100px;
     }
+
+    .contact .heading{
+        font-size: 30px;;
+    }
+
+    .contact input{
+        width:95%;
+    }
+
+    .contact textarea{
+        width:95%;
+    }
+
+    .send-btn{
+        width:80%;
+        margin-left: 30px !important; 
+    }
+
 }
+
