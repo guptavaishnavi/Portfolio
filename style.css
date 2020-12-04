@@ -460,7 +460,11 @@ h5{
     .contact .heading{
         font-size: 30px;;
     }
-
+    
+    .icon{
+        padding-left:2px;
+    }
+    
     .contact input{
         width:95%;
     }
