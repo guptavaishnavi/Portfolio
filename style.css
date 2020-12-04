@@ -208,7 +208,7 @@ h5{
     padding: 0px 3px;
 }
 
-@media only screen and (max-width:990px)
+@media only screen and (max-width:991px)
 {
     .home-img img{
         width:90%;
@@ -356,6 +356,10 @@ h5{
 
     .card-text{
         font-size:17px !important;
+    }
+
+    .c1{
+        margin-left: auto;
     }
 
     .card-title
